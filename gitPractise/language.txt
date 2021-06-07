@@ -1,2 +1,3 @@
 ﻿hello java
-hello woed
+hello word
+hello python
